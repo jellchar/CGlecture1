@@ -12,7 +12,7 @@ Understanding the lecture went well since I am more experienced with making shad
 
 Reflection Wednesday tutorial drop box Nov 11:
 
-I chose to use multiple shaders like an outline shader to highlight the object and give a contrasting pop. I also added a green swirling shader to give an effect that you are watching something through the stencil shader that is in front of the object. The shader that I changed was the hologram, and the way I changed it was by adding the position and separating it's downward movement while increasing noise and speed. These shaders combined provides an illusion of the old CRT screens with the RGB lines scanning each pixel and outputting a green image with the resolution bezzles being the outline shader.
+I chose to use multiple shaders like an outline shader to highlight the object and give a contrasting pop. I also added a green swirling shader to give an effect that you are watching something through the stencil shader that is in front of the object. The shader that I changed was the hologram, and the way I changed it was by adding the position and separating it's downward movement while increasing noise and speed. These shaders combined provides an illusion of the old CRT screens with the RGB lines scanning each pixel and outputting a green image with the resolution bezzles being the outline shader. For my reflection I would like to try to make the rambunctious shaders I made during class time work inside the stencil shader with it clipping.
 
 <img width="478" height="387" alt="image" src="https://github.com/user-attachments/assets/e6101457-232e-4b1f-ad8a-e0dd92cbdd4a" />
 <img width="1166" height="380" alt="image" src="https://github.com/user-attachments/assets/ea692e1c-ef3a-4b90-8053-72965a1a3279" />
