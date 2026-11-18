@@ -16,3 +16,12 @@ I chose to use multiple shaders like an outline shader to highlight the object a
 
 <img width="478" height="387" alt="image" src="https://github.com/user-attachments/assets/e6101457-232e-4b1f-ad8a-e0dd92cbdd4a" />
 <img width="1166" height="380" alt="image" src="https://github.com/user-attachments/assets/ea692e1c-ef3a-4b90-8053-72965a1a3279" />
+
+Reflection Wednesday tutorial drop box Nov 18:
+
+I chose to remake the sin wave and the scrolling shaders but combine them together to create a scrolling staircase that behaves like a black hole. I started with making the scrolling shader slightly transparent and added the LUT color to it. Then I combined the position with the sin and changed it using normal bending. I wanted to add normal bending to my graph because I wanted the shape to warp and form into something resembling to a black hole. These combined shaders provides an illusion of a moving staircase or black hole which was similar to what I wanted. I added a frequency slider to shrink the shader size, and if set to zero it looks like a GPS tracker. For my reflection I would like to try to fiddle around with the bending node a bit more to try to make a realistic black hole.
+
+<img width="254" height="426" alt="Screenshot 2026-11-18 130404" src="https://github.com/user-attachments/assets/594c0283-198b-4f94-9019-e5edef78e96d" />
+<img width="242" height="163" alt="Screenshot 2026-11-18 130455" src="https://github.com/user-attachments/assets/274673bc-31f7-4e31-9adc-548ef07aa729" />
+<img width="530" height="281" alt="Screenshot 2026-11-18 130534" src="https://github.com/user-attachments/assets/40f478a8-8087-4f48-9dd6-dd80d531ba92" />
+
